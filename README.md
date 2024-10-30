@@ -1,5 +1,7 @@
 # Dynamic Knowledge Retrieval System: RAG Pipelines and Agent-Oriented Design
 
+![pct_semantic_layer_rag_arch_v2_jan_2024](https://github.com/user-attachments/assets/7516a276-ee23-4cfe-b6df-ae4f0ac366b7)
+
 Welcome to the **Dynamic Knowledge Retrieval System**, an adaptable and powerful framework for real-time knowledge retrieval and response generation. This system leverages a Retrieval-Augmented Generation (RAG) pipeline, vector databases, and agent-based architecture to enable advanced, contextual answers to complex questions.
 
 ## 📝 Project Overview
